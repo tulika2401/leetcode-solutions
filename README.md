@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/tulika2401/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/tulika2401/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/tulika2401/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/tulika2401/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/tulika2401/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
