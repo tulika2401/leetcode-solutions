@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/tulika2401/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/tulika2401/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0120-triangle) |
 ## Combinatorics
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tulika2401/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/tulika2401/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0120-triangle) |
 | [0496-next-greater-element-i](https://github.com/tulika2401/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
