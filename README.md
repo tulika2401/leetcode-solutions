@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/tulika2401/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0058-length-of-last-word](https://github.com/tulika2401/leetcode-solutions/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
 | ------- |
