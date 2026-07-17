@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tulika2401/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/tulika2401/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tulika2401/leetcode-solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tulika2401/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tulika2401/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tulika2401/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0120-triangle) |
+| [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tulika2401/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tulika2401/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tulika2401/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -62,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tulika2401/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tulika2401/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/tulika2401/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/tulika2401/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -86,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/tulika2401/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/tulika2401/leetcode-solutions/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
