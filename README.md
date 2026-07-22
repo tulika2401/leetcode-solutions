@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tulika2401/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/tulika2401/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tulika2401/leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tulika2401/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
