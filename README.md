@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/tulika2401/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/tulika2401/leetcode-solutions/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/tulika2401/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tulika2401/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 ## Recursion
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/tulika2401/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
