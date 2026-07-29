@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/tulika2401/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/tulika2401/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/tulika2401/leetcode-solutions/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/tulika2401/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tulika2401/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tulika2401/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tulika2401/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tulika2401/leetcode-solutions/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0202-happy-number) |
 ## Number Theory
 |  |
 | ------- |
