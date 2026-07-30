@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tulika2401/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/tulika2401/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/tulika2401/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0120-triangle) |
 ## Combinatorics
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tulika2401/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/tulika2401/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tulika2401/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/tulika2401/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
