@@ -1,0 +1,45 @@
+class Solution {
+public:
+    vector<int> validSequence(string word1, string word2) {
+        int n= word1.size();
+        int m= word2.size();
+        vector<int> dp(n+1,0);
+        int j=m-1;
+
+        for(int i=n-1;i>=0;i--){
+            dp[i]=dp[i+1];
+            if(j>=0 && word1[i]==word2[j]){
+                dp[i]++;
+                j--;
+            }
+        }
+        vector <int> ans;
+        int p=0;
+        int j2=0;
+        bool changed=false;
+        while(p<n && j2<m){
+            if(word1[p]==word2[j2]){
+                ans.push_back(p);
+                p++;
+                j2++;
+            } 
+            else if(!changed){
+                int remaining= m-j2-1;
+                if(dp[p+1]>= remaining){
+                    ans.push_back(p);
+                    changed=true;
+                    p++;
+                    j2++;
+                }else{
+                    p++;
+                }
+            }else{
+                p++;
+            }
+        }
+        if(ans.size()==m){
+            return ans;
+        }
+        return{};
+    }
+};
