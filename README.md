@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tulika2401/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/tulika2401/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tulika2401/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/tulika2401/leetcode-solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/tulika2401/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/tulika2401/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/tulika2401/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/tulika2401/leetcode-solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/tulika2401/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tulika2401/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tulika2401/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tulika2401/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
