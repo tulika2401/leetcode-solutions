@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/tulika2401/leetcode-solutions/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/tulika2401/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tulika2401/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tulika2401/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tulika2401/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tulika2401/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/tulika2401/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/tulika2401/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
