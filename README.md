@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/tulika2401/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/tulika2401/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tulika2401/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/tulika2401/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tulika2401/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tulika2401/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tulika2401/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tulika2401/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tulika2401/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tulika2401/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/tulika2401/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tulika2401/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/tulika2401/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -157,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/tulika2401/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tulika2401/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tulika2401/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/tulika2401/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tulika2401/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Brainteaser
 |  |
@@ -171,14 +175,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tulika2401/leetcode-solutions/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/tulika2401/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tulika2401/leetcode-solutions/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/tulika2401/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tulika2401/leetcode-solutions/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/tulika2401/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
 | ------- |
@@ -204,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tulika2401/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tulika2401/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/tulika2401/leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
