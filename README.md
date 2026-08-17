@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/tulika2401/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/tulika2401/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tulika2401/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tulika2401/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tulika2401/leetcode-solutions/tree/master/0015-3sum) |
+| [0164-maximum-gap](https://github.com/tulika2401/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tulika2401/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tulika2401/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -215,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/tulika2401/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/tulika2401/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/tulika2401/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/tulika2401/leetcode-solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
