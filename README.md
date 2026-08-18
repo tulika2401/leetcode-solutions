@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/tulika2401/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/tulika2401/leetcode-solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/tulika2401/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/tulika2401/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/tulika2401/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tulika2401/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/tulika2401/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/tulika2401/leetcode-solutions/tree/master/0120-triangle) |
+| [0279-perfect-squares](https://github.com/tulika2401/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tulika2401/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Combinatorics
 |  |
@@ -229,4 +231,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/tulika2401/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/tulika2401/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/tulika2401/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/tulika2401/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
