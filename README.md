@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tulika2401/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/tulika2401/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tulika2401/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/tulika2401/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/tulika2401/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/tulika2401/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/tulika2401/leetcode-solutions/tree/master/0258-add-digits) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/tulika2401/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
 | ------- |
