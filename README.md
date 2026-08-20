@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tulika2401/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/tulika2401/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/tulika2401/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/tulika2401/leetcode-solutions/tree/master/0072-edit-distance) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/tulika2401/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/tulika2401/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/tulika2401/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/tulika2401/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tulika2401/leetcode-solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/tulika2401/leetcode-solutions/tree/master/0072-edit-distance) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tulika2401/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/tulika2401/leetcode-solutions/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/tulika2401/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tulika2401/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
